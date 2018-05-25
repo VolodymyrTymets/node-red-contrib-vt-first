@@ -14,7 +14,7 @@
   ],
   "node-red": {
     "nodes": {
-      "vt-test": "moment/nrmoment.js",
+      "vt-test": "src/test.js"
     }
   },
   "main": "src/test.js",
